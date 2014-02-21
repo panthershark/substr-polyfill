@@ -1,6 +1,6 @@
 {
   "name": "substr-polyfill",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Modular polyfill for substr(-1) for IE browsers.  Respectfully copied from MDN and added to a module.",
   "main": "index.js",
   "scripts": {
