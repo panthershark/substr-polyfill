@@ -1,0 +1,25 @@
+{
+  "name": "substr-polyfill",
+  "version": "0.0.0",
+  "description": "Modular polyfill for substr(-1) for IE browsers.  Respectfully copied from MDN and added to a module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tommydudebreaux/substr-polyfill.git"
+  },
+  "keywords": [
+    "substr",
+    "ie",
+    "ie8",
+    "ie7"
+  ],
+  "author": "Tommy Messbauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tommydudebreaux/substr-polyfill/issues"
+  },
+  "homepage": "https://github.com/tommydudebreaux/substr-polyfill"
+}
