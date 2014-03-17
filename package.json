@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tommydudebreaux/substr-polyfill.git"
+    "url": "git://github.com/tommymessbauer/substr-polyfill.git"
   },
   "keywords": [
     "substr",
@@ -19,7 +19,7 @@
   "author": "Tommy Messbauer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tommydudebreaux/substr-polyfill/issues"
+    "url": "https://github.com/tommymessbauer/substr-polyfill/issues"
   },
-  "homepage": "https://github.com/tommydudebreaux/substr-polyfill"
+  "homepage": "https://github.com/tommymessbauer/substr-polyfill"
 }
