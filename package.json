@@ -1,7 +1,7 @@
 {
   "name": "substr-polyfill",
-  "version": "0.0.2",
-  "description": "Modular polyfill for substr(-1) for IE browsers.  Respectfully copied from MDN and added to a module.",
+  "version": "0.0.3",
+  "description": "Modular polyfill for substr(-1) for IE browsers.  Respectfully modified from MDN and added to a module.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
