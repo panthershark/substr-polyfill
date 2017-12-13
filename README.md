@@ -3,7 +3,7 @@ substr-polyfill
 
 Modular polyfill for substr(-1) for IE browsers.
 
-Credit goes to MDN for the polyfill code.  This repo is here so npm and bower can include it easily.
+Credit goes to MDN for the polyfill code and to [mulllhausen](https://github.com/mulllhausen) for a bugfix.  This repo is here so npm and bower can include it easily.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr
 

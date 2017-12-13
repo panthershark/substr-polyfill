@@ -9,9 +9,15 @@ if ('ab'.substr(-1) != 'b')
    */
   module.exports = String.prototype.substr = function(substr) {
     return function(start, length) {
-      // did we get a negative start, calculate how much it is
-      // from the beginning of the string
-      if (start < 0) start = this.length + start;
+      // did we get a negative start?
+      if (start < 0) {
+        // calculate how much it is from the beginning of the string
+        start = this.length + start;
+
+        // if start is still negative then set it to the beginning of
+        // the string
+        if (start < 0) start = 0;
+      }
       
       // call the original function
       return substr.call(this, start, length);
